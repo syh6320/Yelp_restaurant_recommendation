@@ -1,7 +1,5 @@
 # Yelp Data Challenge
 
-BitTiger DS501
-
 Jun 2017
 
 
@@ -12,18 +10,6 @@ Jun 2017
 * Go to [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge) and sign up with your names and email
 * Download Data, for this course, you only need the download the main dataset (1.8 GB tar file), not the Photos Auxiliary Files (5.8 GB tar file)
 * After you download and un-tar the file to `BitTiger-DS501-1702/Projects/yelp/`, you are expected to see the following folder structure
-
-```
-BitTiger-DS501-1702/
-    Projects/
-        yelp/
-            yelp_dataset_challenge_round9/
-                yelp_academic_dataset_business.json
-                yelp_academic_dataset_checkin.json
-                yelp_academic_dataset_review.json
-                yelp_academic_dataset_tip.json
-                yelp_academic_dataset_user.json
-```
 
 ### Read the dataset description
 
